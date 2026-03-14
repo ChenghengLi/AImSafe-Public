@@ -1,0 +1,28 @@
+{
+  "zones": [
+    {
+      "id": "danger_zone_1",
+      "name": "Conveyor Belt Area",
+      "type": "RESTRICTED",
+      "color": [255, 0, 0],
+      "polygon": [
+        [0.7, 0.0],
+        [1.0, 0.0],
+        [1.0, 1.0],
+        [0.7, 1.0]
+      ]
+    },
+    {
+      "id": "machine_zone_1",
+      "name": "Press Machine Proximity",
+      "type": "MACHINE_PROXIMITY",
+      "color": [255, 165, 0],
+      "polygon": [
+        [0.0, 0.0],
+        [0.15, 0.0],
+        [0.15, 0.5],
+        [0.0, 0.5]
+      ]
+    }
+  ]
+}

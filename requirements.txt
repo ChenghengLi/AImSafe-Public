@@ -1,0 +1,14 @@
+nicegui>=1.4
+opencv-python>=4.8
+mediapipe>=0.10
+numpy
+fastapi
+uvicorn
+plotly
+paho-mqtt
+plyer
+openai
+httpx
+python-dotenv
+pytest
+pytest-asyncio
