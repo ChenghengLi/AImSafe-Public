@@ -8,6 +8,21 @@ Built for the **MERIThON 2026** hackathon — Industry 5.0 challenge.
 
 ---
 
+## 🎯 Project Aim
+
+**Problem:** Workplace injuries in manufacturing remain alarmingly common. Unsafe lifting, repetitive strain, fatigue-related accidents, and zone violations account for millions of lost workdays every year. Traditional safety monitoring relies on periodic human audits — which can't catch hazards as they happen.
+
+**Our goal:** Build a **real-time, non-invasive safety co-pilot** that continuously watches over factory workers using nothing more than a standard webcam. AImSafe embodies the **Industry 5.0** vision — technology that works *alongside* humans, enhancing their safety and well-being rather than replacing them.
+
+**What makes it different:**
+- **No wearables required** — workers don't need to carry or wear any devices
+- **No identity tracking** — the system doesn't know *who* you are, only *how* you're moving
+- **Instant feedback** — hazards are detected in real time, not discovered in quarterly reports
+- **AI that coaches, not punishes** — friendly, actionable tips ("bend your knees!") instead of cold warnings
+- **Full automation** — from detection to alert to machine stop, the entire safety loop is closed
+
+---
+
 ## 💡 What Is AImSafe?
 
 AImSafe is a **computer-vision-based worker safety monitoring system** designed for factory floor environments. It watches a live camera feed and, in real time:
